@@ -212,4 +212,4 @@ TibiaBot NG is offered as a complete free version, featuring all functionalities
 Elevate your Tibia experience today with TibiaBot NG! Download now and explore the full potential of your gaming journey.
 
 ---
-**Last updated:** 2026-11-07 23:11:51 UTC
+**Last updated:** 2026-11-08 03:04:23 UTC
